@@ -40,3 +40,7 @@ Here are the implementations of the following design patterns in TypeScript:
 ```
 yarn tsx xxx
 ```
+
+---
+
+https://github.com/kamranahmedse/design-patterns-for-humans
